@@ -3031,6 +3031,11 @@
         "time": "21:00",
         "team1": "Aston Villa FC (ENG)",
         "team2": "Paris Saint-Germain FC (FRA)",
+           "odds": {
+    "team1": 3.25,
+    "draw": 3.7,
+    "team2": 2.12
+  },
         "score": {
         }
       },
@@ -3040,6 +3045,11 @@
         "time": "21:00",
         "team1": "Borussia Dortmund (GER)",
         "team2": "FC Barcelona (ESP)",
+           "odds": {
+    "team1": 3.9,
+    "draw": 4.2,
+    "team2": 1.8
+  },
         "score": {
         }
       },
@@ -3049,6 +3059,11 @@
         "time": "21:00",
         "team1": "Real Madrid CF (ESP)",
         "team2": "Arsenal FC (ENG)",
+           "odds": {
+    "team1": 1.65,
+    "draw": 4.4,
+    "team2": 4.7
+  },
         "score": {
         }
       },
@@ -3058,6 +3073,11 @@
         "time": "21:00",
         "team1": "FC Internazionale Milano (ITA)",
         "team2": "FC Bayern München (GER)",
+           "odds": {
+    "team1": 2.6,
+    "draw": 3.7,
+    "team2": 2.5
+  },
         "score": {
         }
       },
