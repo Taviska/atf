@@ -5196,6 +5196,11 @@
       "time": "12:30",
       "team1": "Manchester City FC",
       "team2": "Crystal Palace FC",
+      "odds": {
+    "team1": 1.58,
+    "draw": 4.6,
+    "team2": 5.4
+  },
       "score": {
       }
     },
