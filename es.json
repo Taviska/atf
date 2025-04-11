@@ -5050,6 +5050,11 @@
         "time": "21:00",
         "team1": "CD Leganés",
         "team2": "FC Barcelona",
+          "odds": {
+    "team1": 8.5,
+    "draw": 6.3,
+    "team2": 1.32
+  },
         "score": {
         }
       },
@@ -5068,6 +5073,11 @@
         "time": "16:15",
         "team1": "Deportivo Alavés",
         "team2": "Real Madrid CF",
+          "odds": {
+    "team1": 5.3,
+    "draw": 4.15,
+    "team2": 1.6
+  },
         "score": {
         }
       },
