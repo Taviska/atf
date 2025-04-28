@@ -3084,16 +3084,26 @@
       {
         "round": "Finals, Semifinals",
         "date": "2025-04-29",
-        "team1": "N.N.",
-        "team2": "N.N.",
+        "team1": "Arsenal FC (ENG)",
+        "team2": "Paris Saint-Germain FC (FRA)",
+          "odds": {
+    "team1": 2.17,
+    "draw": 3.55,
+    "team2": 3.45
+  },
         "score": {
         }
       },
       {
         "round": "Finals, Semifinals",
         "date": "2025-04-30",
-        "team1": "N.N.",
-        "team2": "N.N.",
+        "team1": "FC Barcelona (ESP)",
+        "team2": "FC Internazionale Milano (ITA)",
+          "odds": {
+    "team1": 1.62,
+    "draw": 4.20,
+    "team2": 5.00
+  },
         "score": {
         }
       },
